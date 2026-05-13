@@ -141,3 +141,11 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
